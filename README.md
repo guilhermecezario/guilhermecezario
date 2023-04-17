@@ -5,7 +5,7 @@
 
 <h3>Sobre mim</h3>
 
-Olá meu nome é <strong>Guilherme Cezário</strong> tenho <strong>20 anos</strong> e sou FullStack Developer na [Riachuelo](https://www.riachuelo.com.br/). <br/>
+Olá meu nome é <strong>Guilherme Cezário</strong> tenho <strong>20 anos</strong> e sou FullStack Developer. <br/>
 <br/>
 Formado em técnico de informática para a internet em 2019 me apaixonei pela programação e nunca mais me vi sem o mundo da tecnologia na minha vida. <br/>
 <br/>
